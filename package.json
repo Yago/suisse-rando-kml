@@ -1,6 +1,14 @@
 {
   "name": "swiss-rando",
   "version": "1.0.0",
+  "author": {
+    "name" : "Yann Gouffon",
+    "email" : "hello@yago.io",
+    "url" : "https://github.com/Yago"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
